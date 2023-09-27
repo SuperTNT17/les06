@@ -1,2 +1,3 @@
 # les06
-repo voor les 6 van SKIL
+[test](https://38210.hosts2.ma-cloud.nl)
+![glue gunner](GlueGunner.png)
